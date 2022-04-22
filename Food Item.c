@@ -10,7 +10,7 @@ int main()
 	
 	switch (choice)
 	{
-    case 1:
+                case 1:
 			printf("You Picked pizza.");
 			printf("Price- Rs239");
 			break;
